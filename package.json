@@ -1,0 +1,19 @@
+{
+  "name": "winstar4d",
+  "version": "1.0.0",
+  "description": "winstar4d situs slot online terpercaya di indonesia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guaudahcapedeh/winstar4d.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guaudahcapedeh/winstar4d/issues"
+  },
+  "homepage": "https://github.com/guaudahcapedeh/winstar4d#readme"
+}
