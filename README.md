@@ -1,4 +1,1 @@
-# winstar4d
-winstar4d situs slot online terpercaya di indonesia
-
-di sini link linknya
+<h1 align="left">Winstar4d gacor selalu</p>
