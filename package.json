@@ -1,8 +1,13 @@
 {
   "name": "winstar4d",
+  "main": "index.js",
   "version": "1.2.0",
   "description": "winstar4d situs slot online terpercaya di indonesia",
-  "main": "index.js",
+  "keywords":[
+    "winstar4d",
+    "link slot",
+    "daftar slot"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
