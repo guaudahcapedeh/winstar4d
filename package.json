@@ -2,7 +2,7 @@
   "name": "winstar4d",
   "version": "1.1.0",
   "description": "winstar4d situs slot online terpercaya di indonesia",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
